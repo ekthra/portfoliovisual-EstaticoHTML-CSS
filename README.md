@@ -29,7 +29,7 @@ Praticar estruturação de conteúdo, estilização com CSS e apresentação de 
 ---
 
 ## 📷 Prévia
-![Preview da página]((https://github.com/user-attachments/assets/e47ef3fd-07e8-417a-9130-2fd625ea2ae5))
+![Preview da página](prévia.png)
 
 ## 📂 Estrutura do Projeto
 
@@ -50,7 +50,7 @@ Praticar estruturação de conteúdo, estilização com CSS e apresentação de 
 
   1. Clone o repositório:
 
-    git clone (https://github.com/ekthra/portfoliovisual-EstaticoHTML-CSS)
+    git clone https://github.com/ekthra/portfoliovisual-EstaticoHTML-CSS.git
 
   2.Abra o arquivo index.html em qualquer navegador:
    
